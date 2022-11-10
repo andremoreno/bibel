@@ -18,7 +18,7 @@
 
 <nav class="bg-white shadow px-3 py-2 font-bold">
     <div class="container mx-auto text-center">
-        <a href="/" class="title text-2xl">Bibel</a>
+        <a href="/" class="title text-2xl">B I B E L</a>
     </div>
 </nav>
 
@@ -31,10 +31,9 @@
         <div class="flex justify-between">
             <a href="/">Bibel <span class="invisible md:visible">- Alkitab bahasa Batak Toba</span></a>
             <div class="inline-flex gap-2">
-                <a href="/privacy">Privasi</a>
-                <a href="/about">Tentang</a>
-                <a href="https://trakteer.id/ronaldnababan/tip?quantity=1" target="_blank" rel="noreferrer">Donasi</a>
-            </div>
+                [<a href="/contact">Kontak</a>]
+		[<a href="https://alkitab.andremoreno.com" target="_blank" rel="noreferrer">Alkitab</a>]
+		<a href="https://github.com/andremoreno/bibel" target="_blank" rel="noreferrer">&lt;/source&gt;</a></div>
         </div>
     </div>
 </footer>

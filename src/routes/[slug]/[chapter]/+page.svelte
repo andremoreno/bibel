@@ -16,7 +16,7 @@
 <article class="verses">
     {#each verses as verse}
         <div class="mb-2">
-            <sup class="text-xs">{verse.number}</sup>
+            <sup class="bg-gray-100 text-blue-800 text-xs font-semibold px-1 py-1 rounded dark:bg-gray-200 dark:text-gray-700">{verse.number}</sup>
             <a href="/{book.abbr}/{chapter}/{verse.number}">{verse.content}</a>
         </div>
     {/each}

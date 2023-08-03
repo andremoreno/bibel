@@ -32,7 +32,7 @@
             <a href="/">Bibel <span class="invisible md:visible">- Alkitab bahasa Batak Toba</span></a>
             <div class="inline-flex gap-2">
                 [<a href="/contact">Kontak</a>]
-		[<a href="https://alkitab.andremoreno.id" target="_blank" rel="noreferrer">Alkitab</a>]
+		[<a href="#" target="_blank" rel="noreferrer">Alkitab</a>]
         </div>
     </div>
 </footer>
